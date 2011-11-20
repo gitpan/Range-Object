@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Range-Object
-version:            0.91
+version:            0.92
 abstract:           Manipulate ranges of different objects using the same API
 author:
     - Alexander Tokarev <tokarev@cpan.org>
